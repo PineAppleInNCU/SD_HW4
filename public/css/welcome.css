@@ -1,0 +1,35 @@
+pre{
+	white-space:pre-wrap;  
+	white-space:-moz-pre-wrap;  
+	white-space:-pre-wrap;  
+	white-space:-o-pre-wrap;  
+	word-wrap:break-word; 
+}
+#test{
+	color:blue;
+}
+#main_discussion{
+	word-break:break-all;
+	width:100%;	
+}
+#main_discussion_container{
+	word-wrap:break-word;
+	white-space:normal;	
+}
+.sub_discussion_table{
+	margin-bottom:20%;
+		
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

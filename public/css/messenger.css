@@ -1,0 +1,17 @@
+#message_board{
+	height:500px;
+
+	
+}
+#message_board_2{
+	height:90%;
+	overflow-x:hidden;
+	overflow-y:auto;
+}
+.message{
+	white-space:pre-wrap;
+	white-space:-moz-pre-wrap;
+	white-space:-pre-wrap;
+	white-space:-o-pre-wrap;
+	word-wrap:break-word;
+}
